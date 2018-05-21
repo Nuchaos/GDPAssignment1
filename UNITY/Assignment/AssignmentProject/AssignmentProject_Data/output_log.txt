@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4000 (ID=0x11fa)
+    Vendor:   NVIDIA
+    VRAM:     3008 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.247 seconds
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\bournemouth.ac.uk\data\Student\Home\SciTech\s5005090\UNITY\Assignment\AssignmentProject\AssignmentProject_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 32.314060 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 15c0 -> priority: 1 
+  Thread -> id: 2820 -> priority: 1 
+  Thread -> id: 3268 -> priority: 1 
+  Thread -> id: 16d4 -> priority: 1 
+  Thread -> id: 285c -> priority: 1 
+  Thread -> id: 3b90 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.337453 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1062.
+Total: 0.240777 ms (FindLiveObjects: 0.069505 ms CreateObjectMapping: 0.019062 ms MarkObjects: 0.141064 ms  DeleteObjects: 0.010557 ms)
+

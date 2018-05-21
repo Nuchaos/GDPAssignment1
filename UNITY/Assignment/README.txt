@@ -1,0 +1,1 @@
+If you wanna see the machine in action, just run the "AssignmentMachimne" scene as its own thing and it should work as intendid and the camera should be in sync.
